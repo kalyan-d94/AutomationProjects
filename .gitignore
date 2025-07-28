@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AutomationProjects/FileContentIndex/3ffb4ef5-9171-4bc2-8885-c67b1ff43e21.vsidx
+/.vs/AutomationProjects/FileContentIndex/4f68580b-67cd-4a1e-8223-333df83c0e6d.vsidx
+/.vs/AutomationProjects/FileContentIndex/cfef4a4e-f307-4475-906c-7ef188db37c1.vsidx
+/.vs/AutomationProjects/v17/.wsuo
+/.vs/AutomationProjects/v17/DocumentLayout.backup.json
+/.vs/AutomationProjects/v17/DocumentLayout.json
+/.vs/VSWorkspaceState.json
+/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/obj/Debug/net8.0/SeleniumAutomation.AssemblyInfo.cs
+/obj/Debug/net8.0/SeleniumAutomation.AssemblyInfoInputs.cache
+/obj/Debug/net8.0/SeleniumAutomation.assets.cache
+/obj/Debug/net8.0/SeleniumAutomation.csproj.AssemblyReference.cache
+/obj/Debug/net8.0/SeleniumAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/obj/Debug/net8.0/SeleniumAutomation.GlobalUsings.g.cs
+/obj/project.assets.json
+/obj/project.nuget.cache
+/obj/SeleniumAutomation.csproj.nuget.dgspec.json
+/obj/SeleniumAutomation.csproj.nuget.g.props
+/obj/SeleniumAutomation.csproj.nuget.g.targets
